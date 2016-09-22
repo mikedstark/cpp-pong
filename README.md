@@ -1,2 +1,4 @@
-# cpp-pong
-Pong in C++ with SDL2
+C++ with SDL2 :: Pong
+=====================
+
+Working on pong in C++. WIP
